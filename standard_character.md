@@ -7,7 +7,8 @@
 - **Origins** : 
 
 ## Psycological Characteristics
-<img src="https://preview.redd.it/6hw955rswkn91.png?width=2360&format=png&auto=webp&s=514d2c594d493331b7a367532c5bd328b385b740" alt="alignment chart" width="800"/>
+<img src="https://preview.redd.it/6hw955rswkn91.png?width=2360&format=png&auto=webp&s=514d2c594d493331b7a367532c5bd328b385b740" alt="alignment chart" width="800" />
+
 - **Alignment** (see chart above) : 
 - **Main psychological trait** : 
 - **Secondary psychological trait** : 
